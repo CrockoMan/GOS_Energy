@@ -1,6 +1,6 @@
 # GOS_Energy
 Стек: xBase, ODBC, DBF, dBase </br></br>
-для сборки и запуска EXE использовать следующие инструкции:</br>
+для сборки и запуска использовать следующие инструкции:</br>
 @echo off</br>
 rem del %1.exe</br>
 rem masm %1.asm %1.obj %1.lst nul /s</br>
